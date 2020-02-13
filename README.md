@@ -1,5 +1,1 @@
-pkg install update && pkg install upgrade
-pkg install git
-git clone https://github.com/secripttermux/lukk.git
-cd lukk
-sh man
+MAU_ NGAPAIN _SAYANK_MAU_RECODE_DASAR_BODOH_ANJING_BAMGSAT_KONTOL_BABI
